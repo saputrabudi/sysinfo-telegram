@@ -81,3 +81,5 @@ Bot Telegram untuk monitoring informasi sistem server, termasuk penggunaan CPU, 
    systemctl enable sysinfo-bot
    systemctl start sysinfo-bot
    ``` 
+
+## by Saputra Budi
